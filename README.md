@@ -1,6 +1,10 @@
 # Basic Login Page with MongoDB
  Basic Login Page with MongoDB
 
+# LINKED REPOSITORIES
+ > Other Associated Repositories:
+ > https://github.com/iiTxicz/MongoDB-Login-Entry
+
 # REQUIREMENTS
 > [NODE](https://nodejs.org/en) - Latest Recommended
 
