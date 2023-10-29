@@ -1,0 +1,19 @@
+{
+  "name": "basic-login-page",
+  "version": "1.0.0",
+  "description": "Basic Login Page that uses MongoDB",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiTxicz/Basic-Login-Page-with-MongoDB.git"
+  },
+  "author": "iiTxicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iiTxicz/Basic-Login-Page-with-MongoDB/issues"
+  },
+  "homepage": "https://github.com/iiTxicz/Basic-Login-Page-with-MongoDB#readme"
+}
